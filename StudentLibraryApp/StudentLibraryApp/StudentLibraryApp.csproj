@@ -9,6 +9,10 @@
 
   <ItemGroup>
     <Folder Include="lib\" />
+  <Reference Include="StudentLibrary">
+    <HintPath>lib\StudentLibrary.dll</HintPath>
+    <Private>true</Private>
+  </Reference>
   </ItemGroup>
 
 </Project>

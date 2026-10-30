@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\",
+  "WorkspaceRootPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D180EA08-F570-CF1A-CB13-E7DF6069A2FB}|StudentLibraryApp\\StudentLibraryApp.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice4\\studentlibraryapp\\studentlibraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D180EA08-F570-CF1A-CB13-E7DF6069A2FB}|StudentLibraryApp\\StudentLibraryApp.csproj|c:\\users\\shots\\desktop\\clutter\\msa\\prog6212 ice4\\prog6212-ice-4-kamohelo-mokitimi\\studentlibraryapp\\studentlibraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D180EA08-F570-CF1A-CB13-E7DF6069A2FB}|StudentLibraryApp\\StudentLibraryApp.csproj|solutionrelative:studentlibraryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\Program.cs",
               "RelativeDocumentMoniker": "StudentLibraryApp\\Program.cs",
-              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\Program.cs",
               "RelativeToolTip": "StudentLibraryApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAmwMcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-30T15:08:45.995Z",
               "EditorCaption": ""

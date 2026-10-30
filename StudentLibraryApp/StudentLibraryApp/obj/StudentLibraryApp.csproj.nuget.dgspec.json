@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj": {}
+    "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj": {
+    "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj",
+        "projectUniqueName": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj",
         "projectName": "StudentLibraryApp",
-        "projectPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj",
+        "projectPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\StudentLibraryApp.csproj",
         "packagesPath": "C:\\Users\\shots\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\StudentLibraryApp\\StudentLibraryApp\\obj\\",
+        "outputPath": "C:\\Users\\shots\\Desktop\\CLUTTER\\MSA\\PROG6212 ICE4\\PROG6212-ICE-4-Kamohelo-Mokitimi\\StudentLibraryApp\\StudentLibraryApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
